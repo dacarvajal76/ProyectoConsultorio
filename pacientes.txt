@@ -1,0 +1,8 @@
+Daniel;Carvajal;28332799;04/08/2000;Masculino;aaa
+Javier;Angulo Bernardo;25332798;02/03/2000;Masculino;la casa de Roberto Angulo Bernardo
+Janice;Farias Angulo;12631348;04/08/3000;Femenino;yescaland
+Juan;Galvis;6124154;04/08/2000;Masculino;
+Roberto;Anuglo;2631348;07/08/1999;Femenino;Yescatronaland
+John;Stromboli;27265653;26/12/2000;Masculino;el llanito
+Axel;Montano;7894561;04/05/1990;Masculino;Direccion
+Leonardo;Jimenez;6123253;05/06/1999;Masculino;Direccion

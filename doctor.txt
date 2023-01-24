@@ -1,0 +1,6 @@
+uadmin01
+1010111100010011110100101100011101100100101011110110111011110111
+Guiseppe Stromboli
+Neurologo
+lunes,martes,miercoles,jueves,viernes
+De 8:00 a 12:00 cada dia
